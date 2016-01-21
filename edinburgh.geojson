@@ -2,7 +2,10 @@
   "type": "FeatureCollection",
   "features": [
     {
-      "properties": null,
+      "type": "Feature",
+      "properties": {
+          "name": "Edinburgh"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
